@@ -5,7 +5,7 @@
   	文件，文件内容为：属性名称=类型转换器的全类名(如：date=com.struts2.action.convertor.DateConvertor)<br>
   3、全局类型转换器(针对具体类型的数据)-->在src根目录编写xwork-conversion.properties文件<br>
           文件内容为：待转换的类型全类名=类型转换器的全类名
-2. 关于struts配置文件说明：
+2. 关于struts配置文件说明：<br>
   1、文档说明：<br>
   `
   <!DOCTYPE struts PUBLIC
